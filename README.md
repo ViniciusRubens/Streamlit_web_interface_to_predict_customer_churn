@@ -99,11 +99,10 @@ In this project I used `conda` for environment management.
 
 ### Installation
 
-TODO
 
 1.  **Clone the repository** (or download the files to a local folder).
     ```bash
-    git clone [https://github.com/ViniciusRubens/Rest_API_to_predict_a_product_type](https://github.com/ViniciusRubens/Rest_API_to_predict_a_product_type)
+    git clone git@github.com:ViniciusRubens/Streamlit_web_interface_to_predict_customer_churn.git
     cd your-repository-name
     ```
 
@@ -144,9 +143,8 @@ With your `project_env` environment still active, run the application using the 
 streamlit run app.py
 ```
 
-TODO
 You will see something like that in browser:
-
+![](/assets/images/churn_home.png)
 
 ---
 
